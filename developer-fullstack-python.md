@@ -32,3 +32,6 @@ Perfil proativo, raciocínio lógico, responsabilidade e comprometimento são es
 - Ter trabalhado com metodologias ágeis.
 - Conhecimentos de Cloud Computing AWS e Azure.
 - Ser orientado a resolver o problema do cliente com noções e boas práticas de UX para impactar positivamente as pessoas e organizações.
+
+
+[**Candidatar-se para esta vaga**](https://forms.gle/WAz9xNjnVUDKqfGa9)
