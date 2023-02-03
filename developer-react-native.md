@@ -19,8 +19,8 @@ Temos um propósito bem claro em nossa cultura, onde o trabalho é remoto com ho
 
 Perfil proativo, raciocínio lógico, responsabilidade e comprometimento são essenciais para esta vaga. Aprendizado rápido no uso de tecnologias de desenvolvimento de software.
 
-- Desenvolvimento de aplicativo mobile em TypeScript.
-- Experiência em projetos utilizando React Native.
+- Desenvolvimento de aplicações Web e Mobile em TypeScript.
+- Experiência em projetos utilizando React e React Native.
 - Consumo e integração de aplicações com REST API.
 - Conhecimento em publicação de app no Google Play e Apple Store.
 - Versionamento de código utilizando GIT.
